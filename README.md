@@ -46,6 +46,5 @@
 <br />
 
 <div style="text-align: center;">
-    <img alt="" width="" src="gifs/lofi.gif" />
-    <div>🙃 we 🥰</div>
+    <img alt="🙃 we 🥰" width="" src="gifs/lofi.gif" />
 </div>
