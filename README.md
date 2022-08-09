@@ -1,6 +1,6 @@
 ## Heyo bananas! 😎🍌🍌
 
-- 👨‍💻 I'm 20 y/o developer 🌆 From the famous Kyiv city.
+- 👨‍💻 I'm 20 y/o .NET Fullstack developer 🌆 From the famous Kyiv city.
 - I'm writing my library 📜 [NeerCore](https://github.com/jurilents/NeerCore) for .NET. I believe that it has prospects 📈 :)
 - You can also subscribe to my [telegram channel](https://t.me/nocitats) 👉👈.
 
