@@ -42,6 +42,8 @@
     <img alt="Photoshop" width="32px" src="icons/adobe-photoshop.png" />
 </div>
 
+TODO: Add Angular to tech list and also remove React 💻☕️🚀.
+
 <br />
 <br />
 
