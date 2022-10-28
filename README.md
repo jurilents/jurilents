@@ -51,3 +51,6 @@ TODO: Add Angular to tech list and also remove React 💻☕️🚀.
 <div style="text-align: center;">
     <img alt="🙃 we 🥰" width="" src="gifs/lofi.gif" />
 </div>
+
+<img alt="I Support Creative Society!" width="" src="icons/support_cretive_society.webp" />
+
